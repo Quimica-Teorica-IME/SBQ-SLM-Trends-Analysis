@@ -1,0 +1,118 @@
+```csv
+category,information
+Year,2019
+Area,N/A
+English title,N/A
+Authors,N/A
+Contact,N/A
+University by author,UFES
+Keywords,N/A
+Highlights,N/A
+Software used,N/A
+Methods applied,N/A
+Basis set,N/A
+Related reactions,N/A
+Molecules or atoms used,N/A
+Conclusion summarized in a single sentence,N/A
+Study relevance,N/A
+Acknowledgments,CAPES, FAPES, PPGQUI-UFES, LabPetro/UFES, LEA (Laboratório de Espectrometria Atômica)
+```
+
+```csv
+category,information
+Year,2019
+Area,N/A
+English title,N/A
+Authors,N/A
+Contact,N/A
+University by author,N/A
+Keywords,N/A
+Highlights,N/A
+Software used,N/A
+Methods applied,N/A
+Basis set,N/A
+Related reactions,N/A
+Molecules or atoms used,N/A
+Conclusion summarized in a single sentence,N/A
+Study relevance,N/A
+Acknowledgments (Funding institutions),N/A
+```
+
+```csv
+category,information
+Year,2019
+Area,N/A
+English title,N/A
+Authors,N/A
+Contact,N/A
+University by author,N/A
+Keywords,N/A
+Highlights,N/A
+Software used,N/A
+Methods applied,N/A
+Basis set,N/A
+Related reactions,N/A
+Molecules or atoms used,Human type A+ erythrocytes
+Conclusion summarized in a single sentence,N/A
+Study relevance,N/A
+Acknowledgments (Funding institutions),N/A
+```
+
+```
+category,information
+Year,2019
+Area,N/A
+English title,N/A
+Authors,N/A
+Contact,N/A
+University by author,N/A
+Keywords,N/A
+Highlights,N/A
+Software used,N/A
+Methods applied,N/A
+Basis set,N/A
+Related reactions,N/A
+Molecules or atoms used,N/A
+Conclusion summarized in a single sentence,N/A
+Study relevance,N/A
+Acknowledgments (Funding institutions),N/A
+```
+
+```csv
+category,information
+Year,2019
+Area,N/A
+English title,N/A
+Authors,N/A
+Contact,N/A
+University by author,UDESC, UFPR
+Keywords,N/A
+Highlights,N/A
+Software used,N/A
+Methods applied,N/A
+Basis set,N/A
+Related reactions,N/A
+Molecules or atoms used,N/A
+Conclusion summarized in a single sentence,N/A
+Study relevance,N/A
+Acknowledgments (Funding institutions),CAPES, CNPq, FAPESC
+```
+
+category,information  
+Year,2019  
+Area,N/A  
+English title,N/A  
+Authors,N/A  
+Contact,N/A  
+University by author,UFABC (translated to University of ABC in English)  
+Keywords,N/A  
+Highlights,N/A  
+Software used,N/A  
+Methods applied,N/A  
+Basis set,N/A  
+Related reactions,N/A  
+Molecules or atoms used,Ethylcellulose, soybean oil, isobutanol  
+Conclusion summarized in a single sentence,N/A  
+Study relevance,N/A  
+Acknowledgments (Funding institutions),CAPES (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior)
+
