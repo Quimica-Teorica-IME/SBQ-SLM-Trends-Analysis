@@ -22,10 +22,10 @@ cd SBQ-SLM-Trends-Analysis
 ```
 ## ⚙️ Install Ollama and Phi-4 Model
 This project requires a Small Language Model (SLM) to run locally. We recommend Ollama for simple and efficient execution.
-```bash
+
 Install Ollama
 Visit https://ollama.com/download and follow installation instructions for your OS (macOS, Windows, or Linux).
-```
+
 Run the phi4 model
 After installing Ollama, open a terminal and run:
 ```bash
